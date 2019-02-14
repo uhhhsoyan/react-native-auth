@@ -56,4 +56,4 @@ buck-out/
 *.jsbundle
 
 # firebase info
-src/components/firebase.js
+src/App.js
